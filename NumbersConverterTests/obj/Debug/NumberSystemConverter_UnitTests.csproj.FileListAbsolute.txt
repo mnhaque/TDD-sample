@@ -1,0 +1,10 @@
+D:\tdd\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\tdd\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\NumberSystemConverter_UnitTests.csprojAssemblyReference.cache
+D:\tdd\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\NumberSystemConverter_UnitTests.csproj.CoreCompileInputs.cache
+D:\tdd\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\NumberSystemConverter_UnitTests.csproj.CopyComplete
+D:\tdd\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\NumbersConverterTests.dll
+D:\tdd\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\NumbersConverterTests.pdb
+D:\tdd\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\NumbersConverter.dll
+D:\tdd\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\NumbersConverter.pdb
+D:\tdd\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\NumbersConverterTests.dll
+D:\tdd\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\NumbersConverterTests.pdb

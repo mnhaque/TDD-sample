@@ -1,0 +1,5 @@
+D:\tdd\AssemblySoft.NumberSystems\NumberSystemConverter\bin\Debug\NumbersConverter.dll
+D:\tdd\AssemblySoft.NumberSystems\NumberSystemConverter\bin\Debug\NumbersConverter.pdb
+D:\tdd\AssemblySoft.NumberSystems\NumberSystemConverter\obj\Debug\NumbersConverter.csproj.CoreCompileInputs.cache
+D:\tdd\AssemblySoft.NumberSystems\NumberSystemConverter\obj\Debug\NumbersConverter.dll
+D:\tdd\AssemblySoft.NumberSystems\NumberSystemConverter\obj\Debug\NumbersConverter.pdb
